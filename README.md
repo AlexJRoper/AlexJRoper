@@ -1,16 +1,16 @@
-## <h1>Alexander Roper<h1>
-<h2> Hi there, I'm Alex. A Website Developer for AlexRoper.Dev </h2>
-<!--
-**AlexJRoper/AlexJRoper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Alex Roper 
 
-Here are some ideas to get you started:
+**School Student & Web Developer** | Aspiring Commercial Pilot✈️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Web Development 
+* 🚀 Founder & Developer at **[AlexRoper.Dev](https://alexroper.dev)**
+* 🛠️ Building custom, high-performance websites & digital experiences.
+* 📦 Tech Stack: **HTML5, CSS3, JavaScript, Python, Vite, Cloudflare Workers, VS Code**.
+* 🌐 Live Projects: Custom client sites, full-stack portals, and interactive tools.
+
+---
+
+### ✈️ Aviation & STEM
+* 🛫 En
